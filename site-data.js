@@ -47,6 +47,10 @@ window.SITE_DATA = {
      (категория), над работами появятся кнопки-фильтры.
      Первая работа в списке показывается на главном экране. */
   works: [
+    {id: "new1", title: "", cat: "", note: "", before: "76sfgh877gg87", after: "46ygyw626881177", ratio: 0.833},
+    {id: "new2", title: "", cat: "", note: "", before: "new2-before", after: "new2-after", ratio: 0.833},
+    {id: "new3", title: "", cat: "", note: "", before: "new3-before", after: "new3-after", ratio: 0.833},
+    {id: "new4", title: "", cat: "", note: "", before: "new4-before", after: "new4-after", ratio: 0.833},
     {id: "wmv8hbh52", title: "", cat: "", note: "", before: "fcdc5d60205c9d8bfa2451e87d2f5b44", after: "760a7fbab6f40e24a65812a0cafa243d", ratio: 0.833},
     {id: "wmv8hb7qt", title: "", cat: "", note: "", before: "6c929f0cfe76ed08c986eb4c2e046c3e", after: "d8d4ef5e46eb69c82dbea5709f669815", ratio: 0.833},
     {id: "wmv8haqdg", title: "", cat: "", note: "", before: "1c4f2dd70239034fc1a7022fc563655d", after: "fbda1446d2579875a0620e0b10f0b650", ratio: 0.833},
